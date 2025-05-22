@@ -1,8 +1,7 @@
-package practice;
+package Mypackage;
+public class Combo6{
 
-public class Combo6 {
-
-	class DeviceFailureException extends Exception {
+class DeviceFailureException extends Exception {
 	    public DeviceFailureException(String message) {
 	        super(message);
 	    }
@@ -34,3 +33,7 @@ public class Combo6 {
 	}
 
 
+
+
+
+	
